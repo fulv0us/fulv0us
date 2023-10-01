@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I'm Ivan, a seasoned DevOps Engineer with over 6 years of experience in the IT industry. I'm passionate about IT, hiking, photography, and videography. As a Site Reliability Engineer, I specialize in ensuring the reliability and scalability of web applications and services. My expertise includes containerization, microservice architecture, and the implementation of DevOps best practices.
+I'm Ivan, a seasoned DevOps Engineer with over 6 years of experience in the IT industry. As a Site Reliability Engineer, I specialize in ensuring the reliability and scalability of web applications and services. My expertise includes containerization, microservice architecture, and the implementation of DevOps best practices.
+I'm passionate about IT, hiking, photography, and videography.
 
 ## 🌟 Key Skills
 
